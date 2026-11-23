@@ -1,0 +1,12 @@
+{
+  "title": "Analysis data and recompute script for \"Service Acceptance and Reference-Model Conformance in Generated Low-Code Applications\"",
+  "upload_type": "dataset",
+  "description": "Decision records for 108 generated projects and 648 checked requirement instances, with a standard-library Python script that recomputes the counts reported in the accompanying manuscript. Does not include the generator or the generated applications.",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "creators": [
+    {"name": "Banka, Dominik", "orcid": "0009-0006-6640-5635"},
+    {"name": "Orosz, Tamas", "orcid": "0000-0003-0595-6522"},
+    {"name": "Ritzl, Attila", "orcid": "0009-0007-2742-4881"}
+  ]
+}
